@@ -1,0 +1,1689 @@
+{
+    "nodes": [
+        {
+            "interests": [
+                "Green Building", 
+                "Energy Efficiency", 
+                "Sustainability", 
+                "Data Visualization", 
+                "New York City", 
+                "Entrepreneurship", 
+                "Environment", 
+                "Venture Capital", 
+                "Alternative Energy", 
+                "Museum", 
+                "Architecture", 
+                "Interior Design", 
+                "New Urbanism", 
+                "Green Living", 
+                "Eating, Drinking, Talking, Laughing, Etc", 
+                "Business Referral Networking", 
+                "Business Strategy", 
+                "Referral Marketing", 
+                "Professional Networking", 
+                "Young Professionals", 
+                "Sustainable Development", 
+                "Farmers Market"
+            ], 
+            "connect_to": 5, 
+            "group": 2, 
+            "name": "Nicholas DAlessandro", 
+            "number_of_interests": 22
+        }, 
+        {
+            "interests": [
+                "Anime and Cosplay", 
+                "Cosplay", 
+                "Gundam", 
+                "Anime Cosplay", 
+                "graphic novels", 
+                "Manga", 
+                "Comic Books", 
+                "Anime", 
+                "Transformers", 
+                "Animation", 
+                "Sci-Fi/Fantasy", 
+                "Anime Conventions", 
+                "Anime and Gaming", 
+                "Japanese Food", 
+                "Kendo", 
+                "Sake", 
+                "Ramen", 
+                "Sake Tasting", 
+                "Japanese Language", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 1, 
+            "group": 4, 
+            "name": "Kenny Hakim", 
+            "number_of_interests": 20
+        }, 
+        {
+            "interests": [
+                "Gaming", 
+                "Social", 
+                "Anime and Gaming", 
+                "Card Games", 
+                "Poker", 
+                "Adventure", 
+                "Backpacking", 
+                "Fun Times", 
+                "Live Music", 
+                "Watching Movies", 
+                "Dating and Relationships", 
+                "20's & 30's Social", 
+                "Pubs and Bars", 
+                "Anime and Cosplay", 
+                "Gundam", 
+                "Anime Cosplay", 
+                "Comic Books"
+            ], 
+            "connect_to": 4, 
+            "group": 3, 
+            "name": "Isaiah M", 
+            "number_of_interests": 17
+        }, 
+        {
+            "interests": [
+                "Vegetarian", 
+                "Vegan", 
+                "Watching Movies", 
+                "Catholic", 
+                "Anime", 
+                "Alcohol-Free", 
+                "Manga", 
+                "Japanese Language", 
+                "Sci-Fi/Fantasy", 
+                "Animal Welfare", 
+                "Board Games", 
+                "Euro Games", 
+                "Staten Island", 
+                "Strategy Games", 
+                "Tabletop Games", 
+                "Games", 
+                "Game Night", 
+                "Social", 
+                "Gaming", 
+                "Poetry", 
+                "Poetry Writing", 
+                "Prose and Poetry", 
+                "Poetic Readings", 
+                "Creative Writing", 
+                "Vegan education", 
+                "Raw Vegan", 
+                "Dating and Relationships", 
+                "Card Games", 
+                "Spoken Word", 
+                "Open Mic", 
+                "Gluten-Free", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 5, 
+            "group": 3, 
+            "name": "Christopher", 
+            "number_of_interests": 32
+        }, 
+        {
+            "interests": [
+                "Tennis", 
+                "Nintendo", 
+                "Chess", 
+                "Open Source", 
+                "Cooking", 
+                "Outdoors", 
+                "Walking", 
+                "Hiking", 
+                "Watching Movies", 
+                "Strategy Games", 
+                "Board Games", 
+                "Game Night", 
+                "JavaScript", 
+                "Hacking", 
+                "Software Development", 
+                "Technology", 
+                "Programming", 
+                "Programming Languages", 
+                "Computer Science", 
+                "Python", 
+                "New Technology", 
+                "Big Data", 
+                "Functional Programming", 
+                "Machine Learning", 
+                "Web Development", 
+                "Roleplaying Games (RPGs)", 
+                "Science Fiction", 
+                "Gaming", 
+                "Sci-Fi/Fantasy", 
+                "Tabletop Role Playing and Board Games", 
+                "Geek Culture", 
+                "Games", 
+                "New York City", 
+                "Geeks & Nerds", 
+                "Card Games", 
+                "Dining Out", 
+                "Live Music", 
+                "Amateur and Ham Radio", 
+                "Video Games", 
+                "Recipes", 
+                "Dungeons & Dragons"
+            ], 
+            "connect_to": 11, 
+            "group": 1, 
+            "name": "Phil Dreizen", 
+            "number_of_interests": 41
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Culture Exchange", 
+                "Japanese Language", 
+                "Japanese Food", 
+                "Karaoke", 
+                "Young Professional Singles", 
+                "Museum", 
+                "Fitness", 
+                "Geek Culture", 
+                "Gaming", 
+                "Video Games", 
+                "Geeks & Nerds", 
+                "Sci-Fi/Fantasy", 
+                "Japanese Culture", 
+                "Dining Out", 
+                "Japanese Films", 
+                "Live Music", 
+                "Tabletop Role Playing and Board Games", 
+                "Roleplaying Games (RPGs)", 
+                "Strategy Games", 
+                "Science Fiction", 
+                "Dungeons & Dragons 4.0", 
+                "Dungeons & Dragons 3.5", 
+                "Dungeons & Dragons", 
+                "Casual Bicycling", 
+                "Bicycling", 
+                "Game Night", 
+                "Social", 
+                "Baltimore Ravens", 
+                "Animation", 
+                "Language & Culture", 
+                "Watching Movies", 
+                "Manga", 
+                "Cosplay", 
+                "Comic Books", 
+                "Anime and Cosplay", 
+                "Console Gaming", 
+                "Technology", 
+                "Mobile Development", 
+                "Internet Startups", 
+                "Entrepreneurship", 
+                "Mobile Technology", 
+                "New Technology", 
+                "Software Development", 
+                "Game Development", 
+                "Web Development", 
+                "Programming", 
+                "Startup Businesses", 
+                "Independent Game Development", 
+                "Game Programming"
+            ], 
+            "group": 4, 
+            "name": "Burnest", 
+            "number_of_interests": 50
+        }, 
+        {
+            "interests": [
+                "Entrepreneurship", 
+                "Data Analytics", 
+                "Predictive Analytics", 
+                "Startup Businesses", 
+                "Data Visualization", 
+                "Professional Networking", 
+                "New York City", 
+                "Professional Development", 
+                "Makers", 
+                "Innovation", 
+                "Sustainability", 
+                "Energy Efficiency", 
+                "Solar Energy"
+            ], 
+            "connect_to": 3, 
+            "group": 2, 
+            "name": "Ryan Kim", 
+            "number_of_interests": 13
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Manga", 
+                "Dining Out", 
+                "Sci-Fi/Fantasy", 
+                "Live Music", 
+                "Video Games", 
+                "Cosplay", 
+                "Animation", 
+                "Watching Movies", 
+                "Comic Books", 
+                "My Little Pony", 
+                "Gaming", 
+                "Bronies", 
+                "Friendship Is Magic", 
+                "Ponies", 
+                "My Little Pony : Friendship Is Magic", 
+                "Anime Conventions", 
+                "Anime and Cosplay", 
+                "Comedy", 
+                "Stand-Up Comedy", 
+                "Sketch Comedy", 
+                "Dancing", 
+                "Theater", 
+                "Book Club", 
+                "Live Music", 
+                "Halloween", 
+                "Acting", 
+                "Improv", 
+                "Japanese Language", 
+                "Japanese Food", 
+                "Performing Arts", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 2, 
+            "group": 4, 
+            "name": "Lyssa Villarreal", 
+            "number_of_interests": 32
+        }, 
+        {
+            "interests": [
+                "Vegan", 
+                "Nutrition", 
+                "Raw Food", 
+                "Self-Improvement", 
+                "Consciousness", 
+                "Life Transformation", 
+                "Meditation", 
+                "Wellness", 
+                "Vegetarian", 
+                "Metaphysics", 
+                "Exercise", 
+                "Weight Loss", 
+                "Law of Attraction", 
+                "Holistic Health", 
+                "Spirituality", 
+                "Kayaking", 
+                "Healthy Living", 
+                "Bicycling", 
+                "Whole Food Nutrition", 
+                "Alternative Medicine", 
+                "Museum", 
+                "Theater", 
+                "Live Music", 
+                "Camping", 
+                "Live Music", 
+                "Energy Healing", 
+                "Watching Movies", 
+                "Movie Nights", 
+                "Adventure", 
+                "Fun Times", 
+                "Outdoors", 
+                "Coffee", 
+                "Dining Out", 
+                "Group Fitness Training", 
+                "Paddling", 
+                "Social", 
+                "Dating and Relationships", 
+                "Yoga", 
+                "Self-Empowerment", 
+                "Mountain Biking", 
+                "Music", 
+                "Running", 
+                "Reiki", 
+                "Organic Foods", 
+                "Animal Rights", 
+                "Environment", 
+                "Small Business", 
+                "Business Strategy", 
+                "Health Freedom", 
+                "Intellectual Discussion"
+            ], 
+            "connect_to": 2, 
+            "group": 3, 
+            "name": "ronnie hudson", 
+            "number_of_interests": 50
+        }, 
+        {
+            "interests": [
+                "Organic Foods", 
+                "Raw Food", 
+                "Whole Food Nutrition", 
+                "Fitness", 
+                "Environment", 
+                "Travel", 
+                "Raw Vegan", 
+                "Raw Potlucks", 
+                "Socially Environmentally Responsible Investing", 
+                "Sustainability", 
+                "Green Entrepreneurs", 
+                "New Urbanism", 
+                "Green Technology", 
+                "Sustainable Social and Economic Development", 
+                "Social Entrepreneurship", 
+                "Social Innovation", 
+                "Museum", 
+                "Theater", 
+                "Live Music", 
+                "Watching Movies", 
+                "Professional Development", 
+                "Live Music", 
+                "Dancing", 
+                "New Technology", 
+                "Data Visualization", 
+                "Permaculture", 
+                "Green Living", 
+                "Sustainable Food", 
+                "Hiking", 
+                "International development", 
+                "Creative Sustainable Economy", 
+                "Lean Startup", 
+                "Alternative Energy", 
+                "Renewable Energy", 
+                "Startup Businesses", 
+                "Outdoors", 
+                "Entrepreneurship", 
+                "Adventure", 
+                "Outdoor  Fitness", 
+                "New York City", 
+                "Sustainable Development", 
+                "Performing Arts", 
+                "Farmers Market", 
+                "Vegan Potlucks and Dineouts"
+            ], 
+            "connect_to": 6, 
+            "group": 2, 
+            "name": "melody", 
+            "number_of_interests": 44
+        }, 
+        {
+            "interests": [
+                "Technology", 
+                "Raw Food", 
+                "Sales", 
+                "Game Development", 
+                "Web Technology", 
+                "New Media", 
+                "Mobile Technology", 
+                "New Technology", 
+                "Web Analytics", 
+                "SEO (Search Engine Optimization)", 
+                "E-Commerce", 
+                "Entrepreneurship", 
+                "Brooklyn", 
+                "Internet Startups", 
+                "Education & Technology", 
+                "Philosophy", 
+                "Live Music", 
+                "Data Visualization", 
+                "Big Data", 
+                "Data Mining", 
+                "Internet of Things"
+            ], 
+            "connect_to": 4, 
+            "group": 2, 
+            "name": "Marshall Sponder", 
+            "number_of_interests": 21
+        }, 
+        {
+            "interests": [
+                "Singles 30's-50's", 
+                "Political Activism", 
+                "Democratic Party", 
+                "Volunteering", 
+                "Book Club", 
+                "Dining Out", 
+                "Game Night", 
+                "Foodie", 
+                "Social", 
+                "Museum", 
+                "Fitness", 
+                "Cooking", 
+                "Meditation", 
+                "Dancing", 
+                "Holistic Health", 
+                "Movie Nights", 
+                "Dinner and a Movie", 
+                "Music", 
+                "Energy Healing", 
+                "Dating and Relationships", 
+                "Walking", 
+                "Live Music", 
+                "New York City", 
+                "Hiking", 
+                "Singles Over 50", 
+                "Board Games", 
+                "Intellectual Discussion", 
+                "Local Politics", 
+                "Coffee", 
+                "Crafts", 
+                "Dance Lessons", 
+                "Writing", 
+                "Travel", 
+                "Creative Writing", 
+                "Recipes", 
+                "Artists", 
+                "Musicians"
+            ], 
+            "connect_to": 5, 
+            "group": 3, 
+            "name": "elizabeth berken", 
+            "number_of_interests": 37
+        }, 
+        {
+            "interests": [
+                "Manga", 
+                "Big Data", 
+                "Machine Learning", 
+                "Data Visualization", 
+                "Technology Startups"
+            ], 
+            "group": 1, 
+            "name": "Bill Benzon", 
+            "number_of_interests": 5
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "state": 2, 
+            "target": 7, 
+            "value": 17.0, 
+            "common_interest": [
+                "Energy Efficiency", 
+                "Sustainability", 
+                "Data Visualization", 
+                "New York City", 
+                "Entrepreneurship", 
+                "Professional Networking"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 2, 
+            "target": 12, 
+            "value": 10.0, 
+            "common_interest": [
+                "Sustainability", 
+                "Data Visualization", 
+                "New York City", 
+                "Entrepreneurship", 
+                "Environment", 
+                "Alternative Energy", 
+                "Museum", 
+                "New Urbanism", 
+                "Green Living", 
+                "Sustainable Development", 
+                "Farmers Market"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 2, 
+            "target": 13, 
+            "value": 50.0, 
+            "common_interest": [
+                "Data Visualization", 
+                "Entrepreneurship"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 2, 
+            "target": 14, 
+            "value": 50.0, 
+            "common_interest": [
+                "New York City", 
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 2, 
+            "target": 10, 
+            "value": 34.0, 
+            "common_interest": [
+                "Environment", 
+                "Museum", 
+                "Business Strategy"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 2, 
+            "target": 6, 
+            "value": 50.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 4, 
+            "target": 5, 
+            "value": 25.0, 
+            "common_interest": [
+                "Manga", 
+                "Comic Books", 
+                "Anime", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 4, 
+            "target": 6, 
+            "value": 10.0, 
+            "common_interest": [
+                "Anime and Cosplay", 
+                "Cosplay", 
+                "Manga", 
+                "Comic Books", 
+                "Anime", 
+                "Animation", 
+                "Sci-Fi/Fantasy", 
+                "Japanese Food", 
+                "Japanese Language", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 3, 
+            "target": 10, 
+            "value": 17.0, 
+            "common_interest": [
+                "Social", 
+                "Adventure", 
+                "Fun Times", 
+                "Live Music", 
+                "Watching Movies", 
+                "Dating and Relationships"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 3, 
+            "target": 8, 
+            "value": 20.0, 
+            "common_interest": [
+                "Gaming", 
+                "Live Music", 
+                "Watching Movies", 
+                "Anime and Cosplay", 
+                "Comic Books"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 3, 
+            "target": 1, 
+            "value": 20.0, 
+            "common_interest": [
+                "Anime and Gaming", 
+                "Anime and Cosplay", 
+                "Gundam", 
+                "Anime Cosplay", 
+                "Comic Books"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 3, 
+            "target": 5, 
+            "value": 34.0, 
+            "common_interest": [
+                "Gaming", 
+                "Social", 
+                "Comic Books"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 3, 
+            "target": 6, 
+            "value": 17.0, 
+            "common_interest": [
+                "Gaming", 
+                "Social", 
+                "Live Music", 
+                "Watching Movies", 
+                "Anime and Cosplay", 
+                "Comic Books"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 3, 
+            "target": 2, 
+            "value": 20.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Social", 
+                "Gaming", 
+                "Dating and Relationships", 
+                "Card Games"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 3, 
+            "target": 10, 
+            "value": 20.0, 
+            "common_interest": [
+                "Vegetarian", 
+                "Vegan", 
+                "Watching Movies", 
+                "Social", 
+                "Dating and Relationships"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 3, 
+            "target": 8, 
+            "value": 15.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Anime", 
+                "Manga", 
+                "Japanese Language", 
+                "Sci-Fi/Fantasy", 
+                "Gaming", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 3, 
+            "target": 1, 
+            "value": 20.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Japanese Language", 
+                "Sci-Fi/Fantasy", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 3, 
+            "target": 5, 
+            "value": 20.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Social", 
+                "Gaming", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 3, 
+            "target": 6, 
+            "value": 10.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Anime", 
+                "Manga", 
+                "Japanese Language", 
+                "Sci-Fi/Fantasy", 
+                "Strategy Games", 
+                "Game Night", 
+                "Social", 
+                "Gaming", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 0, 
+            "value": 100.0, 
+            "common_interest": [
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 12, 
+            "value": 17.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Hiking", 
+                "Watching Movies", 
+                "New Technology", 
+                "New York City", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 13, 
+            "value": 25.0, 
+            "common_interest": [
+                "Technology", 
+                "New Technology", 
+                "Big Data", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 14, 
+            "value": 12.0, 
+            "common_interest": [
+                "Cooking", 
+                "Walking", 
+                "Hiking", 
+                "Board Games", 
+                "Game Night", 
+                "New York City", 
+                "Dining Out", 
+                "Live Music", 
+                "Recipes"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 3, 
+            "value": 13.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Strategy Games", 
+                "Board Games", 
+                "Game Night", 
+                "Gaming", 
+                "Sci-Fi/Fantasy", 
+                "Games", 
+                "Card Games"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 2, 
+            "value": 25.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Gaming", 
+                "Card Games", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 10, 
+            "value": 25.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Watching Movies", 
+                "Dining Out", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 8, 
+            "value": 17.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Gaming", 
+                "Sci-Fi/Fantasy", 
+                "Dining Out", 
+                "Live Music", 
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 1, 
+            "value": 100.0, 
+            "common_interest": [
+                "Sci-Fi/Fantasy"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 5, 
+            "value": 34.0, 
+            "common_interest": [
+                "Gaming", 
+                "Geeks & Nerds", 
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 6, 
+            "value": 6.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Strategy Games", 
+                "Game Night", 
+                "Software Development", 
+                "Technology", 
+                "Programming", 
+                "New Technology", 
+                "Web Development", 
+                "Roleplaying Games (RPGs)", 
+                "Science Fiction", 
+                "Gaming", 
+                "Sci-Fi/Fantasy", 
+                "Tabletop Role Playing and Board Games", 
+                "Geek Culture", 
+                "Geeks & Nerds", 
+                "Dining Out", 
+                "Live Music", 
+                "Video Games", 
+                "Dungeons & Dragons"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 4, 
+            "target": 6, 
+            "value": 12.0, 
+            "common_interest": [
+                "Language & Culture", 
+                "Gaming", 
+                "Video Games", 
+                "Social", 
+                "Geeks & Nerds", 
+                "Manga", 
+                "Comic Books", 
+                "Japanese Culture", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 12, 
+            "value": 17.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Startup Businesses", 
+                "Data Visualization", 
+                "New York City", 
+                "Professional Development", 
+                "Sustainability"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 13, 
+            "value": 50.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 14, 
+            "value": 100.0, 
+            "common_interest": [
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 6, 
+            "value": 50.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 4, 
+            "target": 1, 
+            "value": 10.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Sci-Fi/Fantasy", 
+                "Cosplay", 
+                "Animation", 
+                "Comic Books", 
+                "Anime Conventions", 
+                "Anime and Cosplay", 
+                "Japanese Language", 
+                "Japanese Food", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 4, 
+            "target": 5, 
+            "value": 17.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Video Games", 
+                "Comic Books", 
+                "Gaming", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 4, 
+            "target": 6, 
+            "value": 7.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Dining Out", 
+                "Sci-Fi/Fantasy", 
+                "Live Music", 
+                "Video Games", 
+                "Cosplay", 
+                "Animation", 
+                "Watching Movies", 
+                "Comic Books", 
+                "Gaming", 
+                "Anime and Cosplay", 
+                "Live Music", 
+                "Japanese Language", 
+                "Japanese Food", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 4, 
+            "value": 8.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Hiking", 
+                "Walking", 
+                "Live Music", 
+                "New Technology", 
+                "Open Source", 
+                "Machine Learning", 
+                "Python", 
+                "Web Development", 
+                "JavaScript", 
+                "Programming", 
+                "Technology", 
+                "Software Development", 
+                "Tennis"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 0, 
+            "value": 50.0, 
+            "common_interest": [
+                "Data Visualization", 
+                "Entrepreneurship"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 7, 
+            "value": 20.0, 
+            "common_interest": [
+                "Data Analytics", 
+                "Data Visualization", 
+                "Entrepreneurship", 
+                "Startup Businesses", 
+                "Innovation"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 12, 
+            "value": 10.0, 
+            "common_interest": [
+                "Adventure", 
+                "Outdoors", 
+                "Hiking", 
+                "Fitness", 
+                "Travel", 
+                "Live Music", 
+                "New Technology", 
+                "Data Visualization", 
+                "Entrepreneurship", 
+                "Startup Businesses", 
+                "Lean Startup"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 13, 
+            "value": 15.0, 
+            "common_interest": [
+                "Live Music", 
+                "New Technology", 
+                "Data Visualization", 
+                "Data Mining", 
+                "Technology", 
+                "Entrepreneurship", 
+                "Mobile Technology"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 14, 
+            "value": 17.0, 
+            "common_interest": [
+                "Hiking", 
+                "Fitness", 
+                "Music", 
+                "Travel", 
+                "Walking", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 2, 
+            "value": 50.0, 
+            "common_interest": [
+                "Adventure", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 10, 
+            "value": 20.0, 
+            "common_interest": [
+                "Adventure", 
+                "Outdoors", 
+                "Music", 
+                "Live Music", 
+                "Group Fitness Training"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 8, 
+            "value": 100.0, 
+            "common_interest": [
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Music"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 6, 
+            "value": 10.0, 
+            "common_interest": [
+                "Fitness", 
+                "Live Music", 
+                "New Technology", 
+                "Web Development", 
+                "Programming", 
+                "Technology", 
+                "Software Development", 
+                "Entrepreneurship", 
+                "Mobile Technology", 
+                "Mobile Development", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 10, 
+            "state": 3, 
+            "target": 8, 
+            "value": 20.0, 
+            "common_interest": [
+                "Theater", 
+                "Live Music", 
+                "Live Music", 
+                "Watching Movies", 
+                "Dining Out"
+            ]
+        }, 
+        {
+            "source": 10, 
+            "state": 3, 
+            "target": 5, 
+            "value": 50.0, 
+            "common_interest": [
+                "Social", 
+                "Music"
+            ]
+        }, 
+        {
+            "source": 10, 
+            "state": 3, 
+            "target": 6, 
+            "value": 15.0, 
+            "common_interest": [
+                "Bicycling", 
+                "Museum", 
+                "Live Music", 
+                "Live Music", 
+                "Watching Movies", 
+                "Dining Out", 
+                "Social"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 15, 
+            "value": 34.0, 
+            "common_interest": [
+                "Manga", 
+                "Machine Learning", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 9, 
+            "value": 20.0, 
+            "common_interest": [
+                "Open Source", 
+                "Data Analytics", 
+                "Machine Learning", 
+                "Data Mining", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 4, 
+            "value": 50.0, 
+            "common_interest": [
+                "Open Source", 
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 0, 
+            "value": 34.0, 
+            "common_interest": [
+                "New Urbanism", 
+                "Data Visualization", 
+                "Sustainable Development"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 7, 
+            "value": 34.0, 
+            "common_interest": [
+                "Data Analytics", 
+                "Predictive Analytics", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 12, 
+            "value": 34.0, 
+            "common_interest": [
+                "New Urbanism", 
+                "Data Visualization", 
+                "Sustainable Development"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 13, 
+            "value": 20.0, 
+            "common_interest": [
+                "Web Technology", 
+                "Education & Technology", 
+                "Web Analytics", 
+                "Data Mining", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 3, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 8, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 1, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 5, 
+            "value": 25.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime", 
+                "Social Networking", 
+                "Language & Culture"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 6, 
+            "value": 34.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime", 
+                "Language & Culture"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 13, 
+            "value": 17.0, 
+            "common_interest": [
+                "Raw Food", 
+                "Live Music", 
+                "Live Music", 
+                "New Technology", 
+                "Data Visualization", 
+                "Entrepreneurship"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 14, 
+            "value": 13.0, 
+            "common_interest": [
+                "Fitness", 
+                "Travel", 
+                "Museum", 
+                "Live Music", 
+                "Live Music", 
+                "Dancing", 
+                "Hiking", 
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 3, 
+            "value": 50.0, 
+            "common_interest": [
+                "Raw Vegan", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 2, 
+            "value": 25.0, 
+            "common_interest": [
+                "Live Music", 
+                "Watching Movies", 
+                "Live Music", 
+                "Adventure"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 10, 
+            "value": 10.0, 
+            "common_interest": [
+                "Organic Foods", 
+                "Raw Food", 
+                "Whole Food Nutrition", 
+                "Environment", 
+                "Museum", 
+                "Theater", 
+                "Live Music", 
+                "Watching Movies", 
+                "Live Music", 
+                "Outdoors", 
+                "Adventure"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 8, 
+            "value": 17.0, 
+            "common_interest": [
+                "Theater", 
+                "Live Music", 
+                "Watching Movies", 
+                "Live Music", 
+                "Dancing", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 2, 
+            "target": 6, 
+            "value": 13.0, 
+            "common_interest": [
+                "Fitness", 
+                "Museum", 
+                "Live Music", 
+                "Watching Movies", 
+                "Live Music", 
+                "New Technology", 
+                "Startup Businesses", 
+                "Entrepreneurship"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 14, 
+            "value": 100.0, 
+            "common_interest": [
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 2, 
+            "value": 100.0, 
+            "common_interest": [
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "Raw Food", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 8, 
+            "value": 100.0, 
+            "common_interest": [
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 6, 
+            "value": 15.0, 
+            "common_interest": [
+                "Technology", 
+                "Game Development", 
+                "Mobile Technology", 
+                "New Technology", 
+                "Entrepreneurship", 
+                "Internet Startups", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 3, 
+            "value": 20.0, 
+            "common_interest": [
+                "Game Night", 
+                "Social", 
+                "Dating and Relationships", 
+                "Board Games", 
+                "Creative Writing"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 2, 
+            "value": 34.0, 
+            "common_interest": [
+                "Social", 
+                "Dating and Relationships", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 10, 
+            "value": 9.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Social", 
+                "Museum", 
+                "Meditation", 
+                "Holistic Health", 
+                "Movie Nights", 
+                "Music", 
+                "Energy Healing", 
+                "Dating and Relationships", 
+                "Live Music", 
+                "Intellectual Discussion", 
+                "Coffee"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 8, 
+            "value": 25.0, 
+            "common_interest": [
+                "Book Club", 
+                "Dining Out", 
+                "Dancing", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 5, 
+            "value": 17.0, 
+            "common_interest": [
+                "Social", 
+                "Music", 
+                "Crafts", 
+                "Writing", 
+                "Artists", 
+                "Musicians"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 6, 
+            "value": 17.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Game Night", 
+                "Social", 
+                "Museum", 
+                "Fitness", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 9, 
+            "value": 34.0, 
+            "common_interest": [
+                "Machine Learning", 
+                "Data Visualization", 
+                "Technology Startups"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 4, 
+            "value": 50.0, 
+            "common_interest": [
+                "Big Data", 
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 0, 
+            "value": 100.0, 
+            "common_interest": [
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 12, 
+            "value": 100.0, 
+            "common_interest": [
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 13, 
+            "value": 50.0, 
+            "common_interest": [
+                "Big Data", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 8, 
+            "value": 100.0, 
+            "common_interest": [
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 1, 
+            "value": 100.0, 
+            "common_interest": [
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 1, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Manga"
+            ]
+        }
+    ]
+}

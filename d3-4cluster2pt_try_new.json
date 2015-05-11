@@ -1,0 +1,467 @@
+{
+    "nodes": [
+        {
+            "interests": [
+                "Live Music", 
+                "Writing", 
+                "Creative Circle", 
+                "Improv", 
+                "Acting", 
+                "Museum", 
+                "Japanese Culture", 
+                "Theater", 
+                "Spirituality", 
+                "Mind Body Connection", 
+                "Awareness", 
+                "Creative Writing", 
+                "Poetry", 
+                "Graphic Design", 
+                "Natural Hair", 
+                "Crafts", 
+                "Intellectual Discussion", 
+                "Philosophy", 
+                "College Students", 
+                "Communication Skills", 
+                "Psychology", 
+                "Dining Out", 
+                "Drinking", 
+                "Wine", 
+                "Foodie", 
+                "Games", 
+                "Gaming", 
+                "Xbox", 
+                "Anime", 
+                "Comic Books", 
+                "Video Games", 
+                "Geeks & Nerds", 
+                "Game Design", 
+                "Science Fiction", 
+                "Dating Advice", 
+                "Geek Culture", 
+                "Spanish Language", 
+                "New York City", 
+                "Dance and Movement", 
+                "Dance Lessons", 
+                "Live Music", 
+                "Musicians", 
+                "Reggae", 
+                "Singing", 
+                "Music", 
+                "Snowboarding", 
+                "Survivalism", 
+                "Horseback Riding", 
+                "Outdoors", 
+                "Bicycling"
+            ], 
+            "group": 4, 
+            "name": "Max", 
+            "number_of_interests": 50
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Watching Movies", 
+                "Video Games", 
+                "Japanese Pop", 
+                "Travel", 
+                "Japanese Language", 
+                "Manga", 
+                "Dining Out", 
+                "3D Animation", 
+                "computer graphics", 
+                "Live Music", 
+                "Sketching", 
+                "Life Drawing", 
+                "Photography", 
+                "Museum", 
+                "Writing", 
+                "Sci-Fi/Fantasy", 
+                "Karaoke", 
+                "Painting", 
+                "Figure Drawing", 
+                "Nude Figure Models", 
+                "Free-hand Drawing", 
+                "New Technology", 
+                "Gaming", 
+                "Game Development", 
+                "Startup Businesses", 
+                "Indie Games", 
+                "Unity 3D", 
+                "Game Design", 
+                "Japanese Culture", 
+                "Artists", 
+                "Musicians"
+            ], 
+            "connect_to": 4, 
+            "group": 2, 
+            "name": "Bin Li", 
+            "number_of_interests": 32
+        }, 
+        {
+            "interests": [
+                "Gliders and Soaring", 
+                "Machine Learning", 
+                "Data Visualization"
+            ], 
+            "group": 1, 
+            "name": "Spinhop", 
+            "number_of_interests": 3
+        }, 
+        {
+            "interests": [
+                "Tennis", 
+                "Nintendo", 
+                "Chess", 
+                "Open Source", 
+                "Cooking", 
+                "Outdoors", 
+                "Walking", 
+                "Hiking", 
+                "Watching Movies", 
+                "Strategy Games", 
+                "Board Games", 
+                "Game Night", 
+                "JavaScript", 
+                "Hacking", 
+                "Software Development", 
+                "Technology", 
+                "Programming", 
+                "Programming Languages", 
+                "Computer Science", 
+                "Python", 
+                "New Technology", 
+                "Big Data", 
+                "Functional Programming", 
+                "Machine Learning", 
+                "Web Development", 
+                "Roleplaying Games (RPGs)", 
+                "Science Fiction", 
+                "Gaming", 
+                "Sci-Fi/Fantasy", 
+                "Tabletop Role Playing and Board Games", 
+                "Geek Culture", 
+                "Games", 
+                "New York City", 
+                "Geeks & Nerds", 
+                "Card Games", 
+                "Dining Out", 
+                "Live Music", 
+                "Amateur and Ham Radio", 
+                "Video Games", 
+                "Recipes", 
+                "Dungeons & Dragons"
+            ], 
+            "connect_to": 6, 
+            "group": 1, 
+            "name": "Phil Dreizen", 
+            "number_of_interests": 41
+        }, 
+        {
+            "interests": [
+                "Investing", 
+                "Social Media Marketing", 
+                "Intellectual Discussion", 
+                "Wine", 
+                "Online Marketing", 
+                "Social Innovation", 
+                "Foodie", 
+                "Sustainability", 
+                "Fashion Entrepreneurs", 
+                "New York City", 
+                "Jewish Social", 
+                "Travel", 
+                "Professional Development", 
+                "Dance and Movement", 
+                "Fashion and Style", 
+                "Psychology", 
+                "Dance Lessons", 
+                "Community Service", 
+                "Community Builders", 
+                "Leadership", 
+                "Startup Businesses", 
+                "Social", 
+                "Locals & New in Town", 
+                "Communication Skills", 
+                "Live Music", 
+                "Young Professional Singles", 
+                "Mentoring"
+            ], 
+            "connect_to": 1, 
+            "group": 3, 
+            "name": "Iryb", 
+            "number_of_interests": 27
+        }, 
+        {
+            "interests": [
+                "Dog Rescue", 
+                "Brunch", 
+                "Lunch", 
+                "Walking", 
+                "Dining Out", 
+                "Nightlife", 
+                "Humane Society", 
+                "Animal Talk", 
+                "Cat Rescue", 
+                "Feral Cat", 
+                "Animal Welfare", 
+                "Poetry", 
+                "Writing", 
+                "Travel", 
+                "Live Music", 
+                "Artists", 
+                "Musicians"
+            ], 
+            "connect_to": 0, 
+            "group": 4, 
+            "name": "Phyllis", 
+            "number_of_interests": 17
+        }, 
+        {
+            "interests": [
+                "Card Games", 
+                "Video Games", 
+                "LAN Party", 
+                "WoW, World of Warcraft, Video Games", 
+                "Meditation", 
+                "Innovation"
+            ], 
+            "group": 2, 
+            "name": "Meg", 
+            "number_of_interests": 6
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 4, 
+            "value": 25.0, 
+            "common_interest": [
+                "Live Music", 
+                "Museum", 
+                "New Technology", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 5, 
+            "value": 34.0, 
+            "common_interest": [
+                "Travel", 
+                "Live Music", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 6, 
+            "value": 17.0, 
+            "common_interest": [
+                "Travel", 
+                "Dining Out", 
+                "Live Music", 
+                "Writing", 
+                "Artists", 
+                "Musicians"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 0, 
+            "value": 10.0, 
+            "common_interest": [
+                "Anime", 
+                "Video Games", 
+                "Dining Out", 
+                "Live Music", 
+                "Museum", 
+                "Writing", 
+                "Gaming", 
+                "Game Design", 
+                "Japanese Culture", 
+                "Musicians"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 2, 
+            "value": 100.0, 
+            "common_interest": [
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 1, 
+            "value": 15.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "New Technology", 
+                "Gaming", 
+                "Sci-Fi/Fantasy", 
+                "Dining Out", 
+                "Live Music", 
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 7, 
+            "value": 50.0, 
+            "common_interest": [
+                "Card Games", 
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 4, 
+            "value": 20.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Hiking", 
+                "Technology", 
+                "New Technology", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 5, 
+            "value": 50.0, 
+            "common_interest": [
+                "New York City", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 6, 
+            "value": 34.0, 
+            "common_interest": [
+                "Walking", 
+                "Dining Out", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 0, 
+            "value": 10.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Science Fiction", 
+                "Gaming", 
+                "Geek Culture", 
+                "Games", 
+                "New York City", 
+                "Geeks & Nerds", 
+                "Dining Out", 
+                "Live Music", 
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 5, 
+            "value": 25.0, 
+            "common_interest": [
+                "Startup Businesses", 
+                "Online Marketing", 
+                "Professional Development", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 6, 
+            "value": 50.0, 
+            "common_interest": [
+                "Live Music", 
+                "Animal Welfare"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 0, 
+            "value": 34.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Museum", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 3, 
+            "target": 6, 
+            "value": 50.0, 
+            "common_interest": [
+                "Travel", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 3, 
+            "target": 0, 
+            "value": 12.0, 
+            "common_interest": [
+                "Intellectual Discussion", 
+                "Wine", 
+                "Foodie", 
+                "New York City", 
+                "Dance and Movement", 
+                "Psychology", 
+                "Dance Lessons", 
+                "Communication Skills", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 4, 
+            "target": 0, 
+            "value": 20.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Poetry", 
+                "Writing", 
+                "Live Music", 
+                "Musicians"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 0, 
+            "value": 100.0, 
+            "common_interest": [
+                "Video Games"
+            ]
+        }
+    ]
+}

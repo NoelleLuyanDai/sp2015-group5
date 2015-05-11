@@ -1,0 +1,162 @@
+{
+    "nodes": [
+        {
+            "group": 1, 
+            "name": "Carlos Barragan M"
+        }, 
+        {
+            "group": 1, 
+            "name": "Salom\u00e9 Braganza-Gallagher"
+        }, 
+        {
+            "group": 1, 
+            "name": "L. Cuadrado"
+        }, 
+        {
+            "group": 1, 
+            "name": "Kira Banks"
+        }, 
+        {
+            "group": 1, 
+            "name": "Brandon Pacheco"
+        }, 
+        {
+            "group": 1, 
+            "name": "Joel Rosado"
+        }, 
+        {
+            "group": 1, 
+            "name": "Luis Valencia"
+        }, 
+        {
+            "group": 1, 
+            "name": "Joe"
+        }, 
+        {
+            "group": 1, 
+            "name": "Dwight Taylor"
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 2, 
+            "value": 100.0
+        }, 
+        {
+            "source": 0, 
+            "target": 1, 
+            "value": 34.0
+        }, 
+        {
+            "source": 0, 
+            "target": 7, 
+            "value": 20.0
+        }, 
+        {
+            "source": 0, 
+            "target": 3, 
+            "value": 34.0
+        }, 
+        {
+            "source": 0, 
+            "target": 5, 
+            "value": 50.0
+        }, 
+        {
+            "source": 0, 
+            "target": 6, 
+            "value": 100.0
+        }, 
+        {
+            "source": 0, 
+            "target": 8, 
+            "value": 25.0
+        }, 
+        {
+            "source": 1, 
+            "target": 7, 
+            "value": 12.0
+        }, 
+        {
+            "source": 1, 
+            "target": 3, 
+            "value": 34.0
+        }, 
+        {
+            "source": 1, 
+            "target": 5, 
+            "value": 20.0
+        }, 
+        {
+            "source": 1, 
+            "target": 8, 
+            "value": 8.0
+        }, 
+        {
+            "source": 2, 
+            "target": 1, 
+            "value": 25.0
+        }, 
+        {
+            "source": 2, 
+            "target": 7, 
+            "value": 12.0
+        }, 
+        {
+            "source": 2, 
+            "target": 3, 
+            "value": 17.0
+        }, 
+        {
+            "source": 2, 
+            "target": 5, 
+            "value": 34.0
+        }, 
+        {
+            "source": 2, 
+            "target": 8, 
+            "value": 10.0
+        }, 
+        {
+            "source": 3, 
+            "target": 5, 
+            "value": 34.0
+        }, 
+        {
+            "source": 3, 
+            "target": 8, 
+            "value": 25.0
+        }, 
+        {
+            "source": 4, 
+            "target": 1, 
+            "value": 100.0
+        }, 
+        {
+            "source": 4, 
+            "target": 8, 
+            "value": 100.0
+        }, 
+        {
+            "source": 5, 
+            "target": 8, 
+            "value": 25.0
+        }, 
+        {
+            "source": 7, 
+            "target": 3, 
+            "value": 25.0
+        }, 
+        {
+            "source": 7, 
+            "target": 5, 
+            "value": 25.0
+        }, 
+        {
+            "source": 7, 
+            "target": 8, 
+            "value": 9.0
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "nodes": [
+        {
+            "group": 1, 
+            "name": "Christopher"
+        }, 
+        {
+            "group": 1, 
+            "name": "Tahmina"
+        }, 
+        {
+            "group": 1, 
+            "name": "Greg Kinsey"
+        }, 
+        {
+            "group": 1, 
+            "name": "Sola"
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 2, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "target": 3, 
+            "value": 34.0, 
+            "common_interest": [
+                "Japanese Culture", 
+                "Anime", 
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "target": 0, 
+            "value": 34.0, 
+            "common_interest": [
+                "Japanese Culture", 
+                "Anime", 
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "target": 3, 
+            "value": 25.0, 
+            "common_interest": [
+                "Social", 
+                "Anime", 
+                "Watching Movies", 
+                "Comic Books"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "target": 0, 
+            "value": 17.0, 
+            "common_interest": [
+                "Social", 
+                "Sci-Fi/Fantasy", 
+                "Gaming", 
+                "Dating and Relationships", 
+                "Anime", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "target": 0, 
+            "value": 17.0, 
+            "common_interest": [
+                "Social", 
+                "Anime", 
+                "Manga", 
+                "Watching Movies", 
+                "Japanese Language", 
+                "Japanese Culture"
+            ]
+        }
+    ]
+}

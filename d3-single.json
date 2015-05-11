@@ -1,0 +1,169 @@
+{
+    "nodes": [
+        {
+            "group": 1, 
+            "name": "Mr. Anderson (Kode)"
+        }, 
+        {
+            "group": 1, 
+            "name": "Jesus"
+        }, 
+        {
+            "group": 1, 
+            "name": "Rockit"
+        }, 
+        {
+            "group": 1, 
+            "name": "Margarita Rosa"
+        }, 
+        {
+            "group": 1, 
+            "name": "Go Robo Now"
+        }, 
+        {
+            "group": 1, 
+            "name": "Chad Pavel"
+        }, 
+        {
+            "group": 1, 
+            "name": "Angie Chahin"
+        }, 
+        {
+            "group": 1, 
+            "name": "Taruni"
+        }, 
+        {
+            "group": 1, 
+            "name": "Adam Edwards"
+        }, 
+        {
+            "group": 1, 
+            "name": "Sung Kim"
+        }, 
+        {
+            "group": 1, 
+            "name": "Yuusou115"
+        }, 
+        {
+            "group": 1, 
+            "name": "Nekeisha"
+        }
+    ], 
+    "links": [
+        {
+            "source": 8, 
+            "target": 0, 
+            "value": 20.0, 
+            "common_interest": [
+                "3D Modeling", 
+                "Software Development", 
+                "JavaScript", 
+                "Web Development", 
+                "Web Design"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 5, 
+            "value": 34.0, 
+            "common_interest": [
+                "Software Development", 
+                "Mobile Development", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 7, 
+            "value": 17.0, 
+            "common_interest": [
+                "Software Development", 
+                "Mobile Development", 
+                "Mobile Technology", 
+                "Web Development", 
+                "Web Design", 
+                "HTML5"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 9, 
+            "value": 25.0, 
+            "common_interest": [
+                "Anime", 
+                "Software Development", 
+                "Technology", 
+                "Web Development"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 10, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 4, 
+            "value": 50.0, 
+            "common_interest": [
+                "Programming", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 6, 
+            "value": 25.0, 
+            "common_interest": [
+                "Technology", 
+                "Mobile Technology", 
+                "New Technology", 
+                "Big Data"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 11, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 2, 
+            "value": 50.0, 
+            "common_interest": [
+                "Game Design, Game Modding, 3D Modeling", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "target": 1, 
+            "value": 12.0, 
+            "common_interest": [
+                "Game Design", 
+                "Software Development", 
+                "Technology", 
+                "Mobile Development", 
+                "Open Source", 
+                "Programming", 
+                "New Technology", 
+                "Web Development", 
+                "HTML5"
+            ]
+        }
+    ]
+}

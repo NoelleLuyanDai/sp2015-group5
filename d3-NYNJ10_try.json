@@ -1,0 +1,1280 @@
+{
+    "nodes": [
+        {
+            "interests": [
+                "Animal Rights", 
+                "Animals", 
+                "Animal Rescue", 
+                "Animal Welfare", 
+                "Vegetarian", 
+                "Vegan", 
+                "Environment", 
+                "Dog Rescue"
+            ], 
+            "connect_to": 6, 
+            "group": 1, 
+            "name": "Dana Leigh Snyder", 
+            "number_of_interests": 8
+        }, 
+        {
+            "interests": [
+                "Entrepreneurship", 
+                "Just Start", 
+                "Small Business", 
+                "Business Strategy"
+            ], 
+            "connect_to": 0, 
+            "group": 2, 
+            "name": "yulia ostrovsky", 
+            "number_of_interests": 4
+        }, 
+        {
+            "interests": [
+                "College Students", 
+                "Crafts", 
+                "Courses and Workshops", 
+                "Language & Culture", 
+                "Chinese language", 
+                "Modeling", 
+                "Cosplay", 
+                "Manga", 
+                "Geek Culture", 
+                "Anime Cosplay", 
+                "Anime and Cosplay", 
+                "Anime", 
+                "Sci-Fi/Fantasy", 
+                "Live Music", 
+                "Science Fiction", 
+                "Outdoors", 
+                "Watching Movies", 
+                "Chinese Culture"
+            ], 
+            "connect_to": 3, 
+            "group": 2, 
+            "name": "YUE LI", 
+            "number_of_interests": 18
+        }, 
+        {
+            "interests": [
+                "Animal Rights", 
+                "Animal Welfare", 
+                "Animal Rescue", 
+                "Singles", 
+                "Poetry Writing", 
+                "Writing", 
+                "Dating and Relationships", 
+                "Hiking", 
+                "Jewish", 
+                "Live Music", 
+                "Museum", 
+                "Adventure", 
+                "Spirituality", 
+                "Dancing", 
+                "Theater", 
+                "Outdoors", 
+                "Watching Movies", 
+                "Fitness", 
+                "Performing Arts", 
+                "Artists", 
+                "Musicians"
+            ], 
+            "connect_to": 6, 
+            "group": 1, 
+            "name": "Carla Gabris", 
+            "number_of_interests": 21
+        }, 
+        {
+            "interests": [
+                "Interracial Dating", 
+                "Interracial singles", 
+                "Girlfriends", 
+                "Dining Out", 
+                "Nutrition", 
+                "Interracial Families", 
+                "Vegetarian"
+            ], 
+            "connect_to": 1, 
+            "group": 1, 
+            "name": "Kawan f", 
+            "number_of_interests": 7
+        }, 
+        {
+            "interests": [
+                "Pets", 
+                "Dining Out", 
+                "Watching Movies", 
+                "Brunch", 
+                "Singles 30's-50's", 
+                "Animals"
+            ], 
+            "group": 2, 
+            "name": "donna", 
+            "number_of_interests": 6
+        }, 
+        {
+            "interests": [
+                "Family", 
+                "Family Friendly", 
+                "Kid Friendly Activities", 
+                "Playdates", 
+                "Moms", 
+                "Animal Welfare", 
+                "Animal Rescue", 
+                "Dog Rescue", 
+                "Animal Rights", 
+                "Single Dog Lovers", 
+                "Kids", 
+                "Mom's Night Out", 
+                "Nature", 
+                "Outdoors", 
+                "School-Age Kids"
+            ], 
+            "connect_to": 3, 
+            "group": 1, 
+            "name": "jaclyn", 
+            "number_of_interests": 15
+        }, 
+        {
+            "interests": [
+                "Documentary Films", 
+                "Indie Films", 
+                "Watching Movies", 
+                "Environment", 
+                "Eco-Conscious", 
+                "New Urbanism"
+            ], 
+            "connect_to": 2, 
+            "group": 2, 
+            "name": "Lindsey kayman", 
+            "number_of_interests": 6
+        }, 
+        {
+            "interests": [
+                "Comic Books", 
+                "Sci-Fi/Fantasy", 
+                "Comics and Novels", 
+                "Dining Out", 
+                "Watching Movies", 
+                "Museum", 
+                "Foodie", 
+                "Eating, Drinking, Talking, Laughing, Etc", 
+                "New York City", 
+                "Trumpet Players"
+            ], 
+            "connect_to": 7, 
+            "group": 1, 
+            "name": "joseph", 
+            "number_of_interests": 10
+        }, 
+        {
+            "interests": [
+                "Watching Movies", 
+                "Dining Out", 
+                "Self-Improvement", 
+                "Permaculture", 
+                "Fitness", 
+                "Bicycling", 
+                "Martial Arts", 
+                "Jiu Jitsu", 
+                "Cultural Creatives", 
+                "Museum", 
+                "Dating and Relationships", 
+                "Singles 30's-50's", 
+                "Walking", 
+                "Mountain Biking", 
+                "Weightlifting", 
+                "Jeet Kune Do", 
+                "Aikido", 
+                "Classic Films", 
+                "Exercise", 
+                "Outdoors", 
+                "Fun Times", 
+                "Weight Loss", 
+                "Singles", 
+                "Philosophy", 
+                "Theater", 
+                "Travel", 
+                "Indie Films", 
+                "Geek Culture", 
+                "New York City", 
+                "Technology", 
+                "Movie Nights", 
+                "Cooking", 
+                "Dinner and a Movie", 
+                "Social", 
+                "Writing", 
+                "Social Media", 
+                "Digital Photography", 
+                "Coffee", 
+                "Wine", 
+                "Game Night", 
+                "Pubs and Bars", 
+                "Culture", 
+                "New Technology", 
+                "Technology Startups", 
+                "Science", 
+                "Intellectual Discussion", 
+                "New Media", 
+                "Film Industry", 
+                "Digital Video", 
+                "Media"
+            ], 
+            "connect_to": 7, 
+            "group": 1, 
+            "name": "Patrick", 
+            "number_of_interests": 50
+        }, 
+        {
+            "interests": [
+                "Lolita", 
+                "Anime", 
+                "Alternative Parenting", 
+                "Nintendo DS"
+            ], 
+            "connect_to": 0, 
+            "group": 2, 
+            "name": "Chris", 
+            "number_of_interests": 4
+        }, 
+        {
+            "interests": [
+                "Animal Rescue", 
+                "Cat Rescue", 
+                "Animals", 
+                "Vegan", 
+                "Animal Rights", 
+                "Stop Puppy Mills", 
+                "Animals are not for our Entertainment"
+            ], 
+            "connect_to": 0, 
+            "group": 2, 
+            "name": "Jackie Bianchini", 
+            "number_of_interests": 7
+        }, 
+        {
+            "interests": [
+                "Watching Movies", 
+                "Tea", 
+                "Live Music", 
+                "Sketch Comedy", 
+                "Social", 
+                "Backpacking", 
+                "Shyness", 
+                "Sci-Fi/Fantasy", 
+                "Singles", 
+                "Dumpster Diving", 
+                "Social Anxiety"
+            ], 
+            "connect_to": 7, 
+            "group": 1, 
+            "name": "Juston, That guy", 
+            "number_of_interests": 11
+        }, 
+        {
+            "interests": [
+                "Live Music", 
+                "Theater", 
+                "Dancing", 
+                "Travel", 
+                "Nightlife", 
+                "Rock Music", 
+                "Brunch", 
+                "Body for Life", 
+                "Adventure", 
+                "Backpacking", 
+                "Herbalists", 
+                "Dining Out", 
+                "Fleamarkets", 
+                "Social Networking", 
+                "Singles", 
+                "Happy Hour", 
+                "Italian Travel", 
+                "Italian Language", 
+                "Foodie", 
+                "Business Referral Networking", 
+                "Professional Networking", 
+                "Social", 
+                "Fitness", 
+                "Self-Improvement", 
+                "Language & Culture", 
+                "Spiritual Growth", 
+                "Spirituality", 
+                "Self-Empowerment", 
+                "Buddhist", 
+                "Buddhist Meditation", 
+                "Fun Times", 
+                "Pubs and Bars", 
+                "Performing Arts", 
+                "Self Exploration", 
+                "Italian Culture", 
+                "Transformation"
+            ], 
+            "connect_to": 11, 
+            "group": 1, 
+            "name": "Tanya", 
+            "number_of_interests": 36
+        }, 
+        {
+            "interests": [
+                "Music", 
+                "Fitness", 
+                "Weight Loss", 
+                "Exercise", 
+                "Martial Arts", 
+                "New York", 
+                "Fun Times", 
+                "NYC", 
+                "New York City Events", 
+                "Reading", 
+                "Progressive Muslim", 
+                "Investing", 
+                "Watching Movies", 
+                "Film", 
+                "Television Production", 
+                "Animation", 
+                "Console Gaming", 
+                "Video Games", 
+                "Gaming", 
+                "Poker", 
+                "Strategy Games", 
+                "Games", 
+                "LAN Party", 
+                "DotA Defense of the Ancients", 
+                "Social", 
+                "Anime", 
+                "New York City"
+            ], 
+            "connect_to": 8, 
+            "group": 1, 
+            "name": "Mohammad Rahim", 
+            "number_of_interests": 27
+        }, 
+        {
+            "interests": [
+                "Vegetarian"
+            ], 
+            "group": 2, 
+            "name": "Aleks", 
+            "number_of_interests": 1
+        }, 
+        {
+            "interests": [
+                "Dancing"
+            ], 
+            "group": 2, 
+            "name": "jhadi", 
+            "number_of_interests": 1
+        }, 
+        {
+            "interests": [
+                "Photography", 
+                "Digital Photography", 
+                "Dancing", 
+                "Coffee", 
+                "Anime", 
+                "Manga", 
+                "Modeling", 
+                "Japanese Pop", 
+                "Martial Arts Movies", 
+                "Asian Professionals", 
+                "Culture", 
+                "J Rock", 
+                "Martial Arts", 
+                "Cosplay", 
+                "Lolita", 
+                "PlayStation", 
+                "Taekwondo", 
+                "Unreal Tournament", 
+                "Dance Dance Revolution", 
+                "Jiu Jitsu", 
+                "Ninja", 
+                "Xbox", 
+                "Game Boy", 
+                "Simpsons", 
+                "Nintendo", 
+                "Nintendo DS", 
+                "Spider-Man", 
+                "Capoeira", 
+                "X-men", 
+                "Halo", 
+                "Video Games", 
+                "Card Games", 
+                "Japanese Language", 
+                "New Career", 
+                "Global Warming", 
+                "Online Gaming", 
+                "Wine", 
+                "Latin Music", 
+                "Social", 
+                "Environment", 
+                "Jazz", 
+                "Business Strategy", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 0, 
+            "group": 2, 
+            "name": "jennifer safanova", 
+            "number_of_interests": 43
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Animation", 
+                "Manga", 
+                "Dancing", 
+                "Live Music", 
+                "Japanese Language", 
+                "Cosplay", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 3, 
+            "group": 1, 
+            "name": "Candy Chen", 
+            "number_of_interests": 8
+        }, 
+        {
+            "interests": [
+                "J Rock", 
+                "Rock Music", 
+                "Geek Culture", 
+                "Geeks & Nerds", 
+                "Video Games"
+            ], 
+            "group": 2, 
+            "name": "Ariella", 
+            "number_of_interests": 5
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 4, 
+            "value": 100.0, 
+            "common_interest": [
+                "Vegetarian"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 3, 
+            "value": 34.0, 
+            "common_interest": [
+                "Animal Rights", 
+                "Animal Rescue", 
+                "Animal Welfare"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Environment"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 11, 
+            "value": 25.0, 
+            "common_interest": [
+                "Animal Rights", 
+                "Animals", 
+                "Animal Rescue", 
+                "Vegan"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Animals"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 15, 
+            "value": 100.0, 
+            "common_interest": [
+                "Vegetarian"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 17, 
+            "value": 100.0, 
+            "common_interest": [
+                "Environment"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 17, 
+            "value": 100.0, 
+            "common_interest": [
+                "Business Strategy"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 2, 
+            "target": 19, 
+            "value": 100.0, 
+            "common_interest": [
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 2, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 2, 
+            "target": 10, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 2, 
+            "target": 17, 
+            "value": 25.0, 
+            "common_interest": [
+                "Modeling", 
+                "Cosplay", 
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 18, 
+            "value": 50.0, 
+            "common_interest": [
+                "Live Music", 
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 2, 
+            "value": 34.0, 
+            "common_interest": [
+                "Live Music", 
+                "Outdoors", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 11, 
+            "value": 50.0, 
+            "common_interest": [
+                "Animal Rights", 
+                "Animal Rescue"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 17, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 1, 
+            "target": 16, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dining Out"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 1, 
+            "target": 15, 
+            "value": 100.0, 
+            "common_interest": [
+                "Vegetarian"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 1, 
+            "target": 0, 
+            "value": 25.0, 
+            "common_interest": [
+                "Animal Welfare", 
+                "Animal Rescue", 
+                "Dog Rescue", 
+                "Animal Rights"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 1, 
+            "target": 3, 
+            "value": 25.0, 
+            "common_interest": [
+                "Animal Welfare", 
+                "Animal Rescue", 
+                "Animal Rights", 
+                "Outdoors"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 1, 
+            "target": 2, 
+            "value": 100.0, 
+            "common_interest": [
+                "Outdoors"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 1, 
+            "target": 11, 
+            "value": 50.0, 
+            "common_interest": [
+                "Animal Rescue", 
+                "Animal Rights"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 2, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 2, 
+            "target": 17, 
+            "value": 100.0, 
+            "common_interest": [
+                "Environment"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 12, 
+            "value": 50.0, 
+            "common_interest": [
+                "Sci-Fi/Fantasy", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 14, 
+            "value": 50.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 9, 
+            "value": 25.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Watching Movies", 
+                "Museum", 
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 4, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dining Out"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 3, 
+            "value": 50.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 2, 
+            "value": 50.0, 
+            "common_interest": [
+                "Sci-Fi/Fantasy", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 1, 
+            "target": 5, 
+            "value": 50.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Outdoors"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 4, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dining Out"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 3, 
+            "value": 13.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Fitness", 
+                "Museum", 
+                "Dating and Relationships", 
+                "Outdoors", 
+                "Singles", 
+                "Theater", 
+                "Writing"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 7, 
+            "value": 50.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Indie Films"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 2, 
+            "value": 34.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Outdoors", 
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 19, 
+            "value": 100.0, 
+            "common_interest": [
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 5, 
+            "value": 34.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Dining Out", 
+                "Singles 30's-50's"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 1, 
+            "target": 17, 
+            "value": 15.0, 
+            "common_interest": [
+                "Martial Arts", 
+                "Jiu Jitsu", 
+                "Social", 
+                "Digital Photography", 
+                "Coffee", 
+                "Wine", 
+                "Culture"
+            ]
+        }, 
+        {
+            "source": 10, 
+            "state": 2, 
+            "target": 17, 
+            "value": 34.0, 
+            "common_interest": [
+                "Lolita", 
+                "Anime", 
+                "Nintendo DS"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 2, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Animals"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 14, 
+            "value": 50.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Social"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 9, 
+            "value": 34.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Social", 
+                "Singles"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 3, 
+            "value": 34.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Live Music", 
+                "Singles"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 18, 
+            "value": 100.0, 
+            "common_interest": [
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 2, 
+            "value": 34.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Live Music", 
+                "Sci-Fi/Fantasy"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 1, 
+            "target": 17, 
+            "value": 100.0, 
+            "common_interest": [
+                "Social"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 8, 
+            "value": 50.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Foodie"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 12, 
+            "value": 25.0, 
+            "common_interest": [
+                "Live Music", 
+                "Backpacking", 
+                "Singles", 
+                "Social"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 14, 
+            "value": 34.0, 
+            "common_interest": [
+                "Social", 
+                "Fitness", 
+                "Fun Times"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 9, 
+            "value": 12.0, 
+            "common_interest": [
+                "Theater", 
+                "Travel", 
+                "Dining Out", 
+                "Singles", 
+                "Social", 
+                "Fitness", 
+                "Self-Improvement", 
+                "Fun Times", 
+                "Pubs and Bars"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 4, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dining Out"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 3, 
+            "value": 13.0, 
+            "common_interest": [
+                "Live Music", 
+                "Theater", 
+                "Dancing", 
+                "Adventure", 
+                "Singles", 
+                "Fitness", 
+                "Spirituality", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 18, 
+            "value": 50.0, 
+            "common_interest": [
+                "Live Music", 
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 2, 
+            "value": 50.0, 
+            "common_interest": [
+                "Live Music", 
+                "Language & Culture"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 19, 
+            "value": 100.0, 
+            "common_interest": [
+                "Rock Music"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 5, 
+            "value": 50.0, 
+            "common_interest": [
+                "Brunch", 
+                "Dining Out"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 17, 
+            "value": 50.0, 
+            "common_interest": [
+                "Dancing", 
+                "Social"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 1, 
+            "target": 16, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 9, 
+            "value": 13.0, 
+            "common_interest": [
+                "Fitness", 
+                "Weight Loss", 
+                "Exercise", 
+                "Martial Arts", 
+                "Fun Times", 
+                "Watching Movies", 
+                "Social", 
+                "New York City"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 3, 
+            "value": 50.0, 
+            "common_interest": [
+                "Fitness", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 18, 
+            "value": 50.0, 
+            "common_interest": [
+                "Animation", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 2, 
+            "value": 50.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 19, 
+            "value": 100.0, 
+            "common_interest": [
+                "Video Games"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 5, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 10, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 1, 
+            "target": 17, 
+            "value": 25.0, 
+            "common_interest": [
+                "Martial Arts", 
+                "Video Games", 
+                "Social", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 2, 
+            "target": 16, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 18, 
+            "state": 1, 
+            "target": 2, 
+            "value": 25.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Live Music", 
+                "Cosplay"
+            ]
+        }, 
+        {
+            "source": 18, 
+            "state": 1, 
+            "target": 10, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 18, 
+            "state": 1, 
+            "target": 17, 
+            "value": 17.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Dancing", 
+                "Japanese Language", 
+                "Cosplay", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 18, 
+            "state": 1, 
+            "target": 16, 
+            "value": 100.0, 
+            "common_interest": [
+                "Dancing"
+            ]
+        }, 
+        {
+            "source": 19, 
+            "state": 2, 
+            "target": 17, 
+            "value": 50.0, 
+            "common_interest": [
+                "J Rock", 
+                "Video Games"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "nodes": [
+        {
+            "group": 1, 
+            "name": "Kelsey Poli"
+        }, 
+        {
+            "group": 1, 
+            "name": "John Anthony Ober"
+        }, 
+        {
+            "group": 1, 
+            "name": "erixxx vegan"
+        }, 
+        {
+            "group": 1, 
+            "name": "Slade Kenney"
+        }, 
+        {
+            "group": 1, 
+            "name": "Kalliope"
+        }, 
+        {
+            "group": 1, 
+            "name": "Kevin"
+        }, 
+        {
+            "group": 1, 
+            "name": "Sarah "
+        }, 
+        {
+            "group": 1, 
+            "name": "Julia"
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Animal Welfare"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "target": 5, 
+            "value": 25.0, 
+            "common_interest": [
+                "Coffee", 
+                "Dining Out", 
+                "Games", 
+                "Fitness"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "target": 0, 
+            "value": 25.0, 
+            "common_interest": [
+                "Active Dogs", 
+                "Exercise", 
+                "Fitness", 
+                "Sports and Recreation"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Animals"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "target": 0, 
+            "value": 50.0, 
+            "common_interest": [
+                "Animal Welfare", 
+                "Meditation"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "target": 6, 
+            "value": 34.0, 
+            "common_interest": [
+                "Animal Rights", 
+                "Vegetarian", 
+                "Animal Welfare"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Animal Rights"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "target": 0, 
+            "value": 100.0, 
+            "common_interest": [
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "target": 4, 
+            "value": 50.0, 
+            "common_interest": [
+                "Concerts", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "target": 0, 
+            "value": 50.0, 
+            "common_interest": [
+                "Fitness", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "target": 3, 
+            "value": 25.0, 
+            "common_interest": [
+                "Anime", 
+                "Cosplay", 
+                "Manga", 
+                "Comic Books"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Animal Rights"
+            ]
+        }
+    ]
+}

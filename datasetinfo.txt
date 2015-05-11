@@ -1,0 +1,7 @@
+In total 4097 data points
+toptentopics:
+[(u'Live Music', 1799), (u'Anime', 991), (u'Watching Movies', 959), (u'Dining Out', 936), (u'Fitness', 895), (u'Travel', 889), (u'Social', 782), (u'Outdoors', 730), (u'Manga', 691), (u'Video Games', 683)]
+members with these top ten interests: 2764
+member with top 2 interests: 2343, 822 data points have both these interests
+machine learning and data visualization both have occurrences of 32
+the cluster should be ["Machine Learning","Data Visualization","Dating and Relationships","Live Music"], with corresponding number of members: 32 16 522 796, min value 1 and max value 25

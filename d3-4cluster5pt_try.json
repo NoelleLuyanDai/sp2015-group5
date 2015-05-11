@@ -1,0 +1,2320 @@
+{
+    "nodes": [
+        {
+            "interests": [
+                "Machine Learning", 
+                "Artificial Intelligence", 
+                "Neuroscience", 
+                "Science Fiction", 
+                "Futurology", 
+                "Big Data", 
+                "Data Science", 
+                "Predictive Analytics", 
+                "Python", 
+                "Science", 
+                "Innovation", 
+                "Technology", 
+                "Programming", 
+                "Startup Businesses", 
+                "New Technology", 
+                "Synthetic Biology", 
+                "Games", 
+                "Gaming", 
+                "Board Games", 
+                "Strategy Games", 
+                "Game Night"
+            ], 
+            "connect_to": 10, 
+            "group": 1, 
+            "name": "Barney Tam", 
+            "number_of_interests": 21
+        }, 
+        {
+            "interests": [
+                "Green Building", 
+                "Energy Efficiency", 
+                "Sustainability", 
+                "Data Visualization", 
+                "New York City", 
+                "Entrepreneurship", 
+                "Environment", 
+                "Venture Capital", 
+                "Alternative Energy", 
+                "Museum", 
+                "Architecture", 
+                "Interior Design", 
+                "New Urbanism", 
+                "Green Living", 
+                "Eating, Drinking, Talking, Laughing, Etc", 
+                "Business Referral Networking", 
+                "Business Strategy", 
+                "Referral Marketing", 
+                "Professional Networking", 
+                "Young Professionals", 
+                "Sustainable Development", 
+                "Farmers Market"
+            ], 
+            "connect_to": 5, 
+            "group": 2, 
+            "name": "Nicholas DAlessandro", 
+            "number_of_interests": 22
+        }, 
+        {
+            "interests": [
+                "Information Architecture", 
+                "User Experience", 
+                "Digital Media", 
+                "Public Speaking", 
+                "Internet Professionals", 
+                "Being Awesome", 
+                "Entrepreneurship", 
+                "Technology Professionals", 
+                "Freelancers in New York City", 
+                "Social Enterprise", 
+                "Creative Professionals", 
+                "iOS Development", 
+                "Going Out in Brooklyn", 
+                "Raw Food", 
+                "Vegetarian", 
+                "Sustainability", 
+                "Green Living", 
+                "Environment", 
+                "Alternative Energy", 
+                "New Urbanism", 
+                "Green Entrepreneurs", 
+                "Eco-Conscious", 
+                "Environmental Awareness", 
+                "Vegan", 
+                "Whole Food Nutrition", 
+                "Python", 
+                "Big Data", 
+                "Data Visualization", 
+                "Big Data Analytics", 
+                "Predictive Analytics", 
+                "Machine Learning", 
+                "International development", 
+                "Technology Startups", 
+                "Startup Businesses", 
+                "Natural Birth", 
+                "Sustainable Development", 
+                "Farmers Market"
+            ], 
+            "connect_to": 6, 
+            "group": 1, 
+            "name": "caroline", 
+            "number_of_interests": 37
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Gundam", 
+                "Computer Science", 
+                "Engineering", 
+                "Financial Engineering", 
+                "Science Fiction", 
+                "Learning"
+            ], 
+            "connect_to": 3, 
+            "group": 4, 
+            "name": "Fuad", 
+            "number_of_interests": 7
+        }, 
+        {
+            "interests": [
+                "Watching Movies", 
+                "Hiking", 
+                "Walking", 
+                "Shyness", 
+                "Outdoors", 
+                "Dating and Relationships", 
+                "Museum", 
+                "Live Music", 
+                "Book Club", 
+                "Travel", 
+                "Theater", 
+                "Video Games", 
+                "Sci-Fi/Fantasy", 
+                "Anime", 
+                "Manga", 
+                "Performing Arts", 
+                "Social Anxiety"
+            ], 
+            "connect_to": 7, 
+            "group": 3, 
+            "name": "Anthony", 
+            "number_of_interests": 17
+        }, 
+        {
+            "interests": [
+                "Manga", 
+                "Anime"
+            ], 
+            "connect_to": 2, 
+            "group": 4, 
+            "name": "Jared Cyhowski", 
+            "number_of_interests": 2
+        }, 
+        {
+            "interests": [
+                "Education & Technology", 
+                "Science", 
+                "Intellectual Discussion", 
+                "History", 
+                "Live Music", 
+                "Fun Times", 
+                "New Jersey", 
+                "Dating and Relationships", 
+                "Social", 
+                "Travel", 
+                "Happy Hour", 
+                "Coffee", 
+                "Weekend Adventures", 
+                "Hiking", 
+                "Snowboarding", 
+                "Outdoors", 
+                "Trail Running", 
+                "Exercise", 
+                "Social Media Marketing", 
+                "Professional Development", 
+                "Young Professionals", 
+                "Strategy Games", 
+                "Geeks & Nerds", 
+                "Roleplaying Games (RPGs)", 
+                "Sci-Fi/Fantasy", 
+                "Gaming", 
+                "Board Games", 
+                "Game Night", 
+                "Games", 
+                "Online Marketing", 
+                "New Technology", 
+                "Social Media", 
+                "Electronics", 
+                "Web Technology", 
+                "New Media", 
+                "Steampunk", 
+                "Geek Culture", 
+                "Horror Films", 
+                "Movie Nights", 
+                "Dinner and a Movie", 
+                "Watching Movies", 
+                "Self-Improvement", 
+                "Social Anxiety", 
+                "Stress Relief"
+            ], 
+            "connect_to": 4, 
+            "group": 3, 
+            "name": "Joe", 
+            "number_of_interests": 44
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Cosplay", 
+                "Manga", 
+                "Geek Culture", 
+                "Video Games", 
+                "Watching Movies", 
+                "Star Wars", 
+                "Sci-Fi/Fantasy", 
+                "Anime and Cosplay"
+            ], 
+            "connect_to": 1, 
+            "group": 4, 
+            "name": "Kei Inugami", 
+            "number_of_interests": 9
+        }, 
+        {
+            "interests": [
+                "Anime", 
+                "Manga", 
+                "Jogging", 
+                "Software Development", 
+                "Geek Culture", 
+                "Science Fiction", 
+                "J Rock", 
+                "Volunteering", 
+                "Philosophy", 
+                "Lesbian", 
+                "Gay Rights", 
+                "Gay Singles", 
+                "Technology", 
+                "Startup Businesses", 
+                "New Technology", 
+                "HTML5", 
+                "Android Development", 
+                "JavaScript", 
+                "Internet Startups", 
+                "WebGL", 
+                "Mobile Development"
+            ], 
+            "group": 4, 
+            "name": "Alice Q", 
+            "number_of_interests": 21
+        }, 
+        {
+            "interests": [
+                "Black Professionals", 
+                "Natural Hair", 
+                "New Technology", 
+                "Photography", 
+                "Life Transformation", 
+                "Meditation", 
+                "Healthy Living", 
+                "Yoga", 
+                "Karaoke", 
+                "Live Music", 
+                "Startup Businesses", 
+                "Small Business Marketing Strategy", 
+                "Wine", 
+                "Social", 
+                "Web Design", 
+                "Creative Writing", 
+                "Programming", 
+                "Film and Video Production", 
+                "Screenwriting", 
+                "Japanese Language", 
+                "Investing", 
+                "Self-Improvement", 
+                "Spanish Language", 
+                "Writing", 
+                "French Language", 
+                "Architecture", 
+                "Web Technology", 
+                "Geeks & Nerds", 
+                "Middle Eastern Music", 
+                "NYC", 
+                "Big Data", 
+                "Foodie", 
+                "Acting", 
+                "Sensuality", 
+                "Drinking", 
+                "Book Club", 
+                "Dating and Relationships", 
+                "Watching Movies", 
+                "Professional Development", 
+                "Anime", 
+                "Crafts", 
+                "Music", 
+                "Theater", 
+                "Film Industry", 
+                "Italian Culture", 
+                "Fun Times", 
+                "Games", 
+                "Film", 
+                "Language & Culture", 
+                "Game Design"
+            ], 
+            "connect_to": 5, 
+            "group": 3, 
+            "name": "Isiah R", 
+            "number_of_interests": 50
+        }, 
+        {
+            "interests": [
+                "Clean Technology", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Data", 
+                "Technology Startups", 
+                "Data Analytics", 
+                "Entrepreneurship", 
+                "Big Data", 
+                "Internet Startups", 
+                "Philosophy", 
+                "Local Politics", 
+                "Professional Development", 
+                "Entrepreneur Networking", 
+                "Big Data Analytics", 
+                "Data Visualization", 
+                "Programming", 
+                "Predictive Analytics", 
+                "Data Mining", 
+                "Environment", 
+                "Renewable Energy", 
+                "Energy Efficiency", 
+                "Alternative Energy", 
+                "Sustainable Energy", 
+                "Solar Energy", 
+                "Wind Energy", 
+                "Green Technology", 
+                "Green Entrepreneurs", 
+                "Indian Professionals", 
+                "Sustainable Social and Economic Development", 
+                "Sustainability"
+            ], 
+            "connect_to": 4, 
+            "group": 2, 
+            "name": "Nihar Shah", 
+            "number_of_interests": 31
+        }, 
+        {
+            "interests": [
+                "Live Music", 
+                "Travel", 
+                "Theater", 
+                "Museum", 
+                "Dating and Relationships", 
+                "Outdoors", 
+                "Adventure", 
+                "Anime", 
+                "Japanese Language", 
+                "Video Games", 
+                "Geek Culture", 
+                "Cosplay", 
+                "Sci-Fi/Fantasy", 
+                "Anime and Cosplay", 
+                "Performing Arts", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 4, 
+            "group": 3, 
+            "name": "Damian M. Vine", 
+            "number_of_interests": 16
+        }, 
+        {
+            "interests": [
+                "Singles", 
+                "Dating and Relationships", 
+                "Black Singles", 
+                "Black Women", 
+                "African American Women", 
+                "Coffee", 
+                "Social", 
+                "New York City", 
+                "Theater", 
+                "Museum", 
+                "Dining Out", 
+                "Travel", 
+                "Watching Movies", 
+                "Live Music", 
+                "Walking", 
+                "Live Music", 
+                "Singles 20s 30s 40s", 
+                "Happy Hour", 
+                "Musicians", 
+                "Music", 
+                "Fun Times", 
+                "Dating Advice", 
+                "20's & 30's Social", 
+                "Single Professionals", 
+                "Performing Arts", 
+                "Life Coaching"
+            ], 
+            "connect_to": 5, 
+            "group": 3, 
+            "name": "Carl Brown", 
+            "number_of_interests": 26
+        }, 
+        {
+            "interests": [
+                "Science", 
+                "Dining Out", 
+                "Intellectual Discussion", 
+                "Watching Movies", 
+                "Deep Thinkers", 
+                "Museum", 
+                "Philosophy", 
+                "Conversation", 
+                "Live Music", 
+                "Book Club", 
+                "Theater", 
+                "Fitness", 
+                "Walking", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel", 
+                "Meditation", 
+                "Freemasons", 
+                "Outdoors", 
+                "Dancing", 
+                "Spirituality", 
+                "Video Games", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy", 
+                "Gaming", 
+                "Adventure", 
+                "Geeks & Nerds", 
+                "Literature", 
+                "Reading", 
+                "Screenwriting", 
+                "Writing", 
+                "Writing Workshops", 
+                "Creative Writing", 
+                "Software Development", 
+                "Web Development", 
+                "Venture Capital", 
+                "Internet Startups", 
+                "Big Data", 
+                "Machine Learning", 
+                "Entrepreneurship", 
+                "Mobile Technology", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Data Analytics", 
+                "Technology Startups", 
+                "Programming", 
+                "Open Source", 
+                "Lean Startup", 
+                "Web Design"
+            ], 
+            "connect_to": 15, 
+            "group": 1, 
+            "name": "Pierre Bernard", 
+            "number_of_interests": 50
+        }, 
+        {
+            "interests": [
+                "Board Games", 
+                "Comic Books", 
+                "Video Games", 
+                "Battlestar Galactica", 
+                "Geek Culture", 
+                "Japanese Language", 
+                "Sci-Fi/Fantasy", 
+                "Book Club", 
+                "Science Fiction", 
+                "Museum", 
+                "Watching Movies", 
+                "Roleplaying Games (RPGs)", 
+                "Science Fiction & Fantasy Books", 
+                "Dining Out", 
+                "Indie Films", 
+                "Travel", 
+                "Tabletop Role Playing and Board Games", 
+                "New Technology", 
+                "Programming", 
+                "Machine Learning", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 17, 
+            "group": 1, 
+            "name": "Go Robo Now", 
+            "number_of_interests": 21
+        }, 
+        {
+            "interests": [
+                "Anime and Gaming", 
+                "Anime", 
+                "Mario Kart", 
+                "Nintendo DS", 
+                "Nerf Wars", 
+                "Nerf", 
+                "Nerf Guns", 
+                "Friendly Sparring", 
+                "Bingo", 
+                "Cards and Board Games", 
+                "Game Night", 
+                "20's & 30's Social", 
+                "Live Music", 
+                "Jeet Kune Do", 
+                "Chinese Martial Arts", 
+                "Self-Defense", 
+                "Martial Arts", 
+                "Wing Chun", 
+                "Kung Fu", 
+                "Mixed Martial Arts", 
+                "Outdoors", 
+                "Board Games", 
+                "Card Games", 
+                "Watching Movies", 
+                "Social", 
+                "Japanese Language", 
+                "Japanese Culture"
+            ], 
+            "connect_to": 0, 
+            "group": 4, 
+            "name": "A.J.", 
+            "number_of_interests": 27
+        }, 
+        {
+            "interests": [
+                "New Technology", 
+                "Cybernetics", 
+                "Nanotech", 
+                "Bioethics", 
+                "Neuroscience", 
+                "Artificial Intelligence", 
+                "Innovation", 
+                "Emergence", 
+                "Singles", 
+                "Book Club", 
+                "Philosophy", 
+                "Environment", 
+                "Second Life", 
+                "Robotics", 
+                "Hardware", 
+                "Hardware Startups", 
+                "Technology", 
+                "Programming", 
+                "Data Visualization", 
+                "Startup Businesses", 
+                "Data Analytics", 
+                "Entrepreneurship", 
+                "Big Data", 
+                "Mobile Technology"
+            ], 
+            "group": 2, 
+            "name": "Todd Gailun", 
+            "number_of_interests": 24
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 11, 
+            "value": 25.0, 
+            "common_interest": [
+                "Machine Learning", 
+                "Neuroscience", 
+                "Predictive Analytics", 
+                "Science"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 2, 
+            "value": 20.0, 
+            "common_interest": [
+                "Machine Learning", 
+                "Big Data", 
+                "Predictive Analytics", 
+                "Python", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 5, 
+            "value": 17.0, 
+            "common_interest": [
+                "Big Data", 
+                "Data Science", 
+                "Predictive Analytics", 
+                "Technology", 
+                "Startup Businesses", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 9, 
+            "value": 25.0, 
+            "common_interest": [
+                "Big Data", 
+                "Technology", 
+                "Programming", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 13, 
+            "value": 17.0, 
+            "common_interest": [
+                "Big Data", 
+                "Predictive Analytics", 
+                "Technology", 
+                "Programming", 
+                "Startup Businesses", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 19, 
+            "value": 13.0, 
+            "common_interest": [
+                "Artificial Intelligence", 
+                "Neuroscience", 
+                "Big Data", 
+                "Innovation", 
+                "Technology", 
+                "Programming", 
+                "Startup Businesses", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 7, 
+            "value": 15.0, 
+            "common_interest": [
+                "Science", 
+                "New Technology", 
+                "Games", 
+                "Gaming", 
+                "Board Games", 
+                "Strategy Games", 
+                "Game Night"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 12, 
+            "value": 20.0, 
+            "common_interest": [
+                "Big Data", 
+                "Programming", 
+                "Startup Businesses", 
+                "New Technology", 
+                "Games"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Science Fiction"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 18, 
+            "value": 50.0, 
+            "common_interest": [
+                "Board Games", 
+                "Game Night"
+            ]
+        }, 
+        {
+            "source": 0, 
+            "state": 1, 
+            "target": 10, 
+            "value": 25.0, 
+            "common_interest": [
+                "Science Fiction", 
+                "Technology", 
+                "Startup Businesses", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 19, 
+            "value": 34.0, 
+            "common_interest": [
+                "Data Visualization", 
+                "Entrepreneurship", 
+                "Environment"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 15, 
+            "value": 50.0, 
+            "common_interest": [
+                "New York City", 
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 4, 
+            "value": 100.0, 
+            "common_interest": [
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "Young Professionals"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 12, 
+            "value": 100.0, 
+            "common_interest": [
+                "Architecture"
+            ]
+        }, 
+        {
+            "source": 1, 
+            "state": 2, 
+            "target": 14, 
+            "value": 100.0, 
+            "common_interest": [
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 5, 
+            "value": 17.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Big Data", 
+                "Data Visualization", 
+                "Predictive Analytics", 
+                "Technology Startups", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 9, 
+            "value": 50.0, 
+            "common_interest": [
+                "Big Data", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 13, 
+            "value": 10.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Sustainability", 
+                "Environment", 
+                "Alternative Energy", 
+                "Green Entrepreneurs", 
+                "Big Data", 
+                "Data Visualization", 
+                "Big Data Analytics", 
+                "Predictive Analytics", 
+                "Technology Startups", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 1, 
+            "value": 12.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Sustainability", 
+                "Green Living", 
+                "Environment", 
+                "Alternative Energy", 
+                "New Urbanism", 
+                "Data Visualization", 
+                "Sustainable Development", 
+                "Farmers Market"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 19, 
+            "value": 20.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Environment", 
+                "Big Data", 
+                "Data Visualization", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 12, 
+            "value": 50.0, 
+            "common_interest": [
+                "Big Data", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 2, 
+            "state": 1, 
+            "target": 10, 
+            "value": 100.0, 
+            "common_interest": [
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 4, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 4, 
+            "target": 8, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 4, 
+            "target": 18, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 3, 
+            "state": 4, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "Anime", 
+                "Science Fiction"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 7, 
+            "value": 13.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Hiking", 
+                "Outdoors", 
+                "Dating and Relationships", 
+                "Live Music", 
+                "Travel", 
+                "Sci-Fi/Fantasy", 
+                "Social Anxiety"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 12, 
+            "value": 17.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Dating and Relationships", 
+                "Live Music", 
+                "Book Club", 
+                "Theater", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 14, 
+            "value": 10.0, 
+            "common_interest": [
+                "Outdoors", 
+                "Dating and Relationships", 
+                "Museum", 
+                "Live Music", 
+                "Travel", 
+                "Theater", 
+                "Video Games", 
+                "Sci-Fi/Fantasy", 
+                "Anime", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 6, 
+            "value": 50.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 8, 
+            "value": 20.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Video Games", 
+                "Sci-Fi/Fantasy", 
+                "Anime", 
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 18, 
+            "value": 25.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Outdoors", 
+                "Live Music", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 4, 
+            "state": 3, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 9, 
+            "value": 17.0, 
+            "common_interest": [
+                "Open Source", 
+                "Big Data", 
+                "Data Analytics", 
+                "New Technology", 
+                "Data Visualization", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 13, 
+            "value": 10.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Startup Businesses", 
+                "Entrepreneur Networking", 
+                "Big Data", 
+                "Data Analytics", 
+                "Predictive Analytics", 
+                "New Technology", 
+                "Data Visualization", 
+                "Technology Startups", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 1, 
+            "value": 25.0, 
+            "common_interest": [
+                "Museum", 
+                "Young Professionals", 
+                "Entrepreneurship", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 19, 
+            "value": 15.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Startup Businesses", 
+                "Big Data", 
+                "Data Analytics", 
+                "New Technology", 
+                "Data Visualization", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 15, 
+            "value": 10.0, 
+            "common_interest": [
+                "Social", 
+                "20's & 30's Social", 
+                "Single Professionals", 
+                "Happy Hour", 
+                "Museum", 
+                "Dating and Relationships", 
+                "Theater", 
+                "Live Music", 
+                "Travel", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 4, 
+            "value": 17.0, 
+            "common_interest": [
+                "Museum", 
+                "Dating and Relationships", 
+                "Theater", 
+                "Live Music", 
+                "Travel", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 7, 
+            "value": 15.0, 
+            "common_interest": [
+                "Social", 
+                "Happy Hour", 
+                "Dating and Relationships", 
+                "Young Professionals", 
+                "Live Music", 
+                "Travel", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 12, 
+            "value": 13.0, 
+            "common_interest": [
+                "Social", 
+                "Language & Culture", 
+                "Dating and Relationships", 
+                "Theater", 
+                "Live Music", 
+                "Startup Businesses", 
+                "Big Data", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 14, 
+            "value": 17.0, 
+            "common_interest": [
+                "Museum", 
+                "Dating and Relationships", 
+                "Theater", 
+                "Live Music", 
+                "Travel", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 18, 
+            "value": 34.0, 
+            "common_interest": [
+                "Social", 
+                "20's & 30's Social", 
+                "Live Music"
+            ]
+        }, 
+        {
+            "source": 5, 
+            "state": 2, 
+            "target": 10, 
+            "value": 34.0, 
+            "common_interest": [
+                "Startup Businesses", 
+                "New Technology", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 4, 
+            "target": 8, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 4, 
+            "target": 18, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 6, 
+            "state": 4, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 3, 
+            "target": 12, 
+            "value": 10.0, 
+            "common_interest": [
+                "Live Music", 
+                "Fun Times", 
+                "Dating and Relationships", 
+                "Social", 
+                "Professional Development", 
+                "Geeks & Nerds", 
+                "Games", 
+                "New Technology", 
+                "Web Technology", 
+                "Watching Movies", 
+                "Self-Improvement"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 3, 
+            "target": 14, 
+            "value": 17.0, 
+            "common_interest": [
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel", 
+                "Outdoors", 
+                "Sci-Fi/Fantasy", 
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 3, 
+            "target": 8, 
+            "value": 34.0, 
+            "common_interest": [
+                "Sci-Fi/Fantasy", 
+                "Geek Culture", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 3, 
+            "target": 18, 
+            "value": 17.0, 
+            "common_interest": [
+                "Live Music", 
+                "Social", 
+                "Outdoors", 
+                "Board Games", 
+                "Game Night", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 7, 
+            "state": 3, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "New Technology", 
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 4, 
+            "target": 18, 
+            "value": 50.0, 
+            "common_interest": [
+                "Anime", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 8, 
+            "state": 4, 
+            "target": 10, 
+            "value": 34.0, 
+            "common_interest": [
+                "Anime", 
+                "Manga", 
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 2, 
+            "target": 13, 
+            "value": 17.0, 
+            "common_interest": [
+                "New Technology", 
+                "Big Data", 
+                "Data Analytics", 
+                "Programming", 
+                "Data Visualization", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 2, 
+            "target": 1, 
+            "value": 100.0, 
+            "common_interest": [
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 2, 
+            "target": 19, 
+            "value": 17.0, 
+            "common_interest": [
+                "New Technology", 
+                "Big Data", 
+                "Data Analytics", 
+                "Programming", 
+                "Data Visualization", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 2, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 2, 
+            "target": 12, 
+            "value": 34.0, 
+            "common_interest": [
+                "New Technology", 
+                "Big Data", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 9, 
+            "state": 2, 
+            "target": 10, 
+            "value": 34.0, 
+            "common_interest": [
+                "Software Development", 
+                "New Technology", 
+                "Technology"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 2, 
+            "value": 17.0, 
+            "common_interest": [
+                "Information Architecture", 
+                "Predictive Analytics", 
+                "Machine Learning", 
+                "New Urbanism", 
+                "Data Visualization", 
+                "Sustainable Development"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 5, 
+            "value": 20.0, 
+            "common_interest": [
+                "Open Source", 
+                "Data Analytics", 
+                "Predictive Analytics", 
+                "Language & Culture", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 9, 
+            "value": 25.0, 
+            "common_interest": [
+                "Open Source", 
+                "Data Analytics", 
+                "NoSQL", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 13, 
+            "value": 25.0, 
+            "common_interest": [
+                "Data Analytics", 
+                "Predictive Analytics", 
+                "Data Mining", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 1, 
+            "value": 34.0, 
+            "common_interest": [
+                "New Urbanism", 
+                "Data Visualization", 
+                "Sustainable Development"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 19, 
+            "value": 20.0, 
+            "common_interest": [
+                "Cybernetics", 
+                "Neuroscience", 
+                "Bioethics", 
+                "Data Analytics", 
+                "Data Visualization"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 4, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 7, 
+            "value": 34.0, 
+            "common_interest": [
+                "Web Technology", 
+                "Education & Technology", 
+                "Science"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 12, 
+            "value": 25.0, 
+            "common_interest": [
+                "Web Technology", 
+                "Anime", 
+                "Investing", 
+                "Language & Culture"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 14, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 6, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 8, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 18, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 11, 
+            "state": 1, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "Manga", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 3, 
+            "target": 14, 
+            "value": 20.0, 
+            "common_interest": [
+                "Live Music", 
+                "Japanese Language", 
+                "Dating and Relationships", 
+                "Anime", 
+                "Theater"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 3, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 3, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 3, 
+            "target": 8, 
+            "value": 50.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 3, 
+            "target": 18, 
+            "value": 20.0, 
+            "common_interest": [
+                "Live Music", 
+                "Social", 
+                "Japanese Language", 
+                "Watching Movies", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 12, 
+            "state": 3, 
+            "target": 10, 
+            "value": 34.0, 
+            "common_interest": [
+                "New Technology", 
+                "Startup Businesses", 
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 1, 
+            "value": 17.0, 
+            "common_interest": [
+                "Entrepreneurship", 
+                "Data Visualization", 
+                "Environment", 
+                "Energy Efficiency", 
+                "Alternative Energy", 
+                "Sustainability"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 19, 
+            "value": 10.0, 
+            "common_interest": [
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Data Analytics", 
+                "Entrepreneurship", 
+                "Big Data", 
+                "Philosophy", 
+                "Data Visualization", 
+                "Programming", 
+                "Environment"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 7, 
+            "value": 50.0, 
+            "common_interest": [
+                "New Technology", 
+                "Professional Development"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 12, 
+            "value": 20.0, 
+            "common_interest": [
+                "New Technology", 
+                "Startup Businesses", 
+                "Big Data", 
+                "Professional Development", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 13, 
+            "state": 2, 
+            "target": 10, 
+            "value": 20.0, 
+            "common_interest": [
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Internet Startups", 
+                "Philosophy"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 6, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 8, 
+            "value": 17.0, 
+            "common_interest": [
+                "Anime", 
+                "Video Games", 
+                "Geek Culture", 
+                "Cosplay", 
+                "Sci-Fi/Fantasy", 
+                "Anime and Cosplay"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 18, 
+            "value": 20.0, 
+            "common_interest": [
+                "Live Music", 
+                "Outdoors", 
+                "Anime", 
+                "Japanese Language", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 14, 
+            "state": 3, 
+            "target": 10, 
+            "value": 50.0, 
+            "common_interest": [
+                "Anime", 
+                "Geek Culture"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 3, 
+            "target": 4, 
+            "value": 12.0, 
+            "common_interest": [
+                "Dating and Relationships", 
+                "Theater", 
+                "Museum", 
+                "Travel", 
+                "Watching Movies", 
+                "Live Music", 
+                "Walking", 
+                "Live Music", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 3, 
+            "target": 7, 
+            "value": 12.0, 
+            "common_interest": [
+                "Dating and Relationships", 
+                "Coffee", 
+                "Social", 
+                "Travel", 
+                "Watching Movies", 
+                "Live Music", 
+                "Live Music", 
+                "Happy Hour", 
+                "Fun Times"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 3, 
+            "target": 12, 
+            "value": 13.0, 
+            "common_interest": [
+                "Dating and Relationships", 
+                "Social", 
+                "Theater", 
+                "Watching Movies", 
+                "Live Music", 
+                "Live Music", 
+                "Music", 
+                "Fun Times"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 3, 
+            "target": 14, 
+            "value": 15.0, 
+            "common_interest": [
+                "Dating and Relationships", 
+                "Theater", 
+                "Museum", 
+                "Travel", 
+                "Live Music", 
+                "Live Music", 
+                "Performing Arts"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 3, 
+            "target": 8, 
+            "value": 100.0, 
+            "common_interest": [
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 15, 
+            "state": 3, 
+            "target": 18, 
+            "value": 20.0, 
+            "common_interest": [
+                "Social", 
+                "Watching Movies", 
+                "Live Music", 
+                "Live Music", 
+                "20's & 30's Social"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 0, 
+            "value": 13.0, 
+            "common_interest": [
+                "Science", 
+                "Gaming", 
+                "Big Data", 
+                "Machine Learning", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 11, 
+            "value": 25.0, 
+            "common_interest": [
+                "Science", 
+                "Machine Learning", 
+                "Data Analytics", 
+                "Open Source"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 2, 
+            "value": 20.0, 
+            "common_interest": [
+                "Big Data", 
+                "Machine Learning", 
+                "Entrepreneurship", 
+                "Startup Businesses", 
+                "Technology Startups"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 5, 
+            "value": 6.0, 
+            "common_interest": [
+                "Museum", 
+                "Live Music", 
+                "Theater", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel", 
+                "Dancing", 
+                "Spirituality", 
+                "Big Data", 
+                "Entrepreneurship", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Data Analytics", 
+                "Technology Startups", 
+                "Open Source", 
+                "Lean Startup"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 9, 
+            "value": 15.0, 
+            "common_interest": [
+                "Software Development", 
+                "Big Data", 
+                "New Technology", 
+                "Technology", 
+                "Data Analytics", 
+                "Programming", 
+                "Open Source"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 13, 
+            "value": 10.0, 
+            "common_interest": [
+                "Philosophy", 
+                "Internet Startups", 
+                "Big Data", 
+                "Entrepreneurship", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Data Analytics", 
+                "Technology Startups", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 1, 
+            "value": 34.0, 
+            "common_interest": [
+                "Museum", 
+                "Venture Capital", 
+                "Entrepreneurship"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 19, 
+            "value": 10.0, 
+            "common_interest": [
+                "Philosophy", 
+                "Book Club", 
+                "Big Data", 
+                "Entrepreneurship", 
+                "Mobile Technology", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses", 
+                "Data Analytics", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 15, 
+            "value": 12.0, 
+            "common_interest": [
+                "Dining Out", 
+                "Watching Movies", 
+                "Museum", 
+                "Live Music", 
+                "Theater", 
+                "Walking", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 4, 
+            "value": 9.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Museum", 
+                "Live Music", 
+                "Book Club", 
+                "Theater", 
+                "Walking", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel", 
+                "Outdoors", 
+                "Video Games", 
+                "Sci-Fi/Fantasy"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 7, 
+            "value": 8.0, 
+            "common_interest": [
+                "Science", 
+                "Intellectual Discussion", 
+                "Watching Movies", 
+                "Live Music", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel", 
+                "Outdoors", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy", 
+                "Gaming", 
+                "Geeks & Nerds", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 12, 
+            "value": 7.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Live Music", 
+                "Book Club", 
+                "Theater", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Meditation", 
+                "Geeks & Nerds", 
+                "Screenwriting", 
+                "Writing", 
+                "Creative Writing", 
+                "Big Data", 
+                "New Technology", 
+                "Startup Businesses", 
+                "Programming", 
+                "Web Design"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 14, 
+            "value": 10.0, 
+            "common_interest": [
+                "Museum", 
+                "Live Music", 
+                "Theater", 
+                "Live Music", 
+                "Dating and Relationships", 
+                "Travel", 
+                "Outdoors", 
+                "Video Games", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy", 
+                "Adventure"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 8, 
+            "value": 25.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Video Games", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 18, 
+            "value": 25.0, 
+            "common_interest": [
+                "Watching Movies", 
+                "Live Music", 
+                "Live Music", 
+                "Outdoors"
+            ]
+        }, 
+        {
+            "source": 16, 
+            "state": 1, 
+            "target": 10, 
+            "value": 15.0, 
+            "common_interest": [
+                "Philosophy", 
+                "Geek Culture", 
+                "Software Development", 
+                "Internet Startups", 
+                "New Technology", 
+                "Technology", 
+                "Startup Businesses"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 16, 
+            "value": 10.0, 
+            "common_interest": [
+                "Video Games", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy", 
+                "Book Club", 
+                "Museum", 
+                "Watching Movies", 
+                "Dining Out", 
+                "Travel", 
+                "New Technology", 
+                "Programming", 
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 0, 
+            "value": 20.0, 
+            "common_interest": [
+                "Board Games", 
+                "Science Fiction", 
+                "New Technology", 
+                "Programming", 
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 11, 
+            "value": 100.0, 
+            "common_interest": [
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 2, 
+            "value": 100.0, 
+            "common_interest": [
+                "Machine Learning"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 5, 
+            "value": 34.0, 
+            "common_interest": [
+                "Museum", 
+                "Travel", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 9, 
+            "value": 50.0, 
+            "common_interest": [
+                "New Technology", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 13, 
+            "value": 50.0, 
+            "common_interest": [
+                "New Technology", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 1, 
+            "value": 100.0, 
+            "common_interest": [
+                "Museum"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 19, 
+            "value": 34.0, 
+            "common_interest": [
+                "Book Club", 
+                "New Technology", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 15, 
+            "value": 25.0, 
+            "common_interest": [
+                "Museum", 
+                "Watching Movies", 
+                "Dining Out", 
+                "Travel"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 4, 
+            "value": 17.0, 
+            "common_interest": [
+                "Video Games", 
+                "Sci-Fi/Fantasy", 
+                "Book Club", 
+                "Museum", 
+                "Watching Movies", 
+                "Travel"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 7, 
+            "value": 15.0, 
+            "common_interest": [
+                "Board Games", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy", 
+                "Watching Movies", 
+                "Roleplaying Games (RPGs)", 
+                "Travel", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 12, 
+            "value": 20.0, 
+            "common_interest": [
+                "Japanese Language", 
+                "Book Club", 
+                "Watching Movies", 
+                "New Technology", 
+                "Programming"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 14, 
+            "value": 15.0, 
+            "common_interest": [
+                "Video Games", 
+                "Geek Culture", 
+                "Japanese Language", 
+                "Sci-Fi/Fantasy", 
+                "Museum", 
+                "Travel", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 3, 
+            "value": 100.0, 
+            "common_interest": [
+                "Science Fiction"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 8, 
+            "value": 25.0, 
+            "common_interest": [
+                "Video Games", 
+                "Geek Culture", 
+                "Sci-Fi/Fantasy", 
+                "Watching Movies"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 18, 
+            "value": 25.0, 
+            "common_interest": [
+                "Board Games", 
+                "Japanese Language", 
+                "Watching Movies", 
+                "Japanese Culture"
+            ]
+        }, 
+        {
+            "source": 17, 
+            "state": 1, 
+            "target": 10, 
+            "value": 34.0, 
+            "common_interest": [
+                "Geek Culture", 
+                "Science Fiction", 
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 18, 
+            "state": 4, 
+            "target": 10, 
+            "value": 100.0, 
+            "common_interest": [
+                "Anime"
+            ]
+        }, 
+        {
+            "source": 19, 
+            "state": 2, 
+            "target": 15, 
+            "value": 100.0, 
+            "common_interest": [
+                "Singles"
+            ]
+        }, 
+        {
+            "source": 19, 
+            "state": 2, 
+            "target": 4, 
+            "value": 100.0, 
+            "common_interest": [
+                "Book Club"
+            ]
+        }, 
+        {
+            "source": 19, 
+            "state": 2, 
+            "target": 7, 
+            "value": 100.0, 
+            "common_interest": [
+                "New Technology"
+            ]
+        }, 
+        {
+            "source": 19, 
+            "state": 2, 
+            "target": 12, 
+            "value": 20.0, 
+            "common_interest": [
+                "New Technology", 
+                "Book Club", 
+                "Programming", 
+                "Startup Businesses", 
+                "Big Data"
+            ]
+        }, 
+        {
+            "source": 19, 
+            "state": 2, 
+            "target": 10, 
+            "value": 25.0, 
+            "common_interest": [
+                "New Technology", 
+                "Philosophy", 
+                "Technology", 
+                "Startup Businesses"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "topteninterests": [
+        {
+            "Live Music": 12
+        }, 
+        {
+            "Dining Out": 8
+        }, 
+        {
+            "Travel": 7
+        }, 
+        {
+            "Fitness": 6
+        }, 
+        {
+            "Wellness": 6
+        }, 
+        {
+            "Watching Movies": 5
+        }, 
+        {
+            "Walking": 5
+        }, 
+        {
+            "Alternative Medicine": 5
+        }, 
+        {
+            "Cooking": 5
+        }, 
+        {
+            "Hiking": 4
+        }
+    ]
+}
